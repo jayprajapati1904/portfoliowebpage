@@ -35,4 +35,5 @@ The contact form is a static HTML frontend. To make it functional, we recommend 
 - Google Fonts (Typography)
 
 ## 🆘 Support
-If you have any questions or issues with the template, please contact me at: [Your Email Here]
+If you have any questions or issues with the template, please contact me at: prajapatijay1290@gmail.com
+
